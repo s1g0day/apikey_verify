@@ -1,0 +1,1 @@
+# https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf
